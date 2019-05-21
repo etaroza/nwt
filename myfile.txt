@@ -1,2 +1,3 @@
 laba diena
 labas vakaras
+.
